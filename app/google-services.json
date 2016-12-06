@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "532720125479",
+    "firebase_url": "https://giant-unit-converter.firebaseio.com",
+    "project_id": "giant-unit-converter",
+    "storage_bucket": "giant-unit-converter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532720125479:android:ab63dc78a425c7e8",
+        "android_client_info": {
+          "package_name": "com.example.fractal.giantunitconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532720125479-apomlkj7f2ohjjd5m76sefjq51ps5dqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW6Mdyz4K8GxJ2k7y5QyODAroQVOWldgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
